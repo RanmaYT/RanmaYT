@@ -1,4 +1,5 @@
 ### Hi there 👋
+![<Badge X>](https://img.shields.io/badge/<Badge X>-<Background Black>?style=for-the-badge&logo=<Icon X>&logoColor=<Logo White>)
 
 <!--
 **RanmaYT/RanmaYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
