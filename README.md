@@ -37,6 +37,6 @@
 <br>
 <br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranmayt&column=4row=2&margin-w=30&margin-h=20" alt="ranmayt" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranmayt&theme=tokyonight&column=4row=2&margin-w=30&margin-h=20" alt="ranmayt" /></a> </p>
 
 </div>
