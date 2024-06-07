@@ -1,27 +1,42 @@
-### HELLO PEOPLE!!!
-# 💫 About Me:
-🔭 I’m currently working on: Personal Projects <br>
-🤝 I’m looking to collaborate on: Small Game Projects(I'm new in the area, so if you want, we can try to make something!!) <br>
-🌱 I’m currently learning: Unity and C# (In the future, I'll learn about Unreal and C++ too) <br>
-💬 Ask me about: GAMES AND PROGRAMMING!!!! <br>
-📚 Studys: I'll start my graduation in Software Engineer in the second semester of 2024 <br>
-⚡ Fun fact: What made me face it head on and study game development was a chemistry teacher who also made games and a friend of mine who works in the field!
+<h1 align="center">Hi 👋, I'm Ranma</h1>
+<h3 align="center">i"m a passionate game developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranmayt&label=Profile%20views&color=0e75b6&style=flat" alt="ranmayt" /> </p>
 
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/IreliaMy-black.svg?logo=X&logoColor=white)](https://x.com/@IreliaMy) 
+- 🔭 I’m currently working on **Personal Projects**
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RanmaYT&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RanmaYT&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RanmaYT&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🌱 I’m currently learning **Unity and C# (In the future, I'll learn about Unreal and C++ too)**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+- 👯 I’m looking to collaborate on **Small Game Projects(I'm new in the area, so if you want, we can try to make something!!)**
 
----
-[![](https://visitcount.itsvg.in/api?id=RanmaYT&icon=0&color=9)](https://visitcount.itsvg.in)
+- 💬 Ask me about **GAMES AND PROGRAMMING!!!!**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 📫 How to reach me **rantanma1@gmail.com**
+
+- ⚡ Fun fact **What made me face it head on and study game development was a chemistry teacher who also made games and a friend of mine who works in the field!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left" style="display:flex; justify-content:center;">
+
+<a href="https://www.linkedin.com/in/guilherme-venancio-521b47260/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"  />
+</a>
+<a href="mailto:rantanma1@gmail.com" target="_blank" style="display:inline">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"  />
+</a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+<div align="center">
+<p><img style="padding-top:20px; padding-bottom:20px;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanmaYT&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="ranmayt" /></p>
+
+<p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=RanmaYT&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="ranmayt" /></p>
+
+<br>
+<br>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranmayt&column=4row=2&margin-w=30&margin-h=20" alt="ranmayt" /></a> </p>
+
+</div>
