@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Personal Projects**
 
-- 🌱 I’m currently learning **Unity and C# (In the future, I'll learn about Unreal and C++ too)**
+- 🌱 I’m currently learning **Unity and C#**
 
 - 👯 I’m looking to collaborate on **Small Game Projects(I'm new in the area, so if you want, we can try to make something!!)**
 
